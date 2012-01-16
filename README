@@ -1,0 +1,1 @@
+Use the LD_PRELOAD trick to force a MAC address on eth0.
